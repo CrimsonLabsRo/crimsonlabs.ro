@@ -1,0 +1,10 @@
+# Files during deployment
+deploy.zip
+job.json
+index.html
+
+# Minify HTML bin
+minify-html
+
+# Env file
+.env
